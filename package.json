@@ -21,7 +21,7 @@
   "scopedRegistries": [
     {
       "name": "package.dereststorm",
-      "url": "https://github.com/DeRestStorm",
+      "url": "https://github.com",
       "scopes": [
         "com.modesttree.zenject",
         "net.yasirkula.unitybeziersolution"
