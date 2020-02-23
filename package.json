@@ -3,19 +3,5 @@
   "displayName": "grs-td",
   "version": "0.0.3-preview",
   "unity": "2019.2",
-  "description": "for grs-td project.",
-  "dependencies": {
-    "com.dereststorm.zenject": "upm",
-    "com.dereststorm.unitybeziersolution": "upm"
-  },
-  "scopedRegistries": [
-    {
-      "name": "package.dereststorm",
-      "url": "https://github.com",
-      "scopes": [
-        "com.dereststorm.zenject",
-        "com.dereststorm.unitybeziersolution"
-      ]
-    }
-  ]
+  "description": "for grs-td project."
 }
