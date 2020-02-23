@@ -5,8 +5,8 @@
   "unity": "2019.2",
   "description": "for grs-td project.",
   "dependencies": {
-    "net.yasirkula.unitybeziersolution": "https://github.com/DeRestStorm/UnityBezierSolution-UPM.git#upm",
-    "com.modesttree.zenject": "https://github.com/DeRestStorm/Zenject.git#upm"
+    "net.yasirkula.unitybeziersolution": "1.26.1",
+    "com.modesttree.zenject": "0.0.1-preview"
   },
   "lock": {
     "com.modesttree.zenject": {
@@ -17,5 +17,15 @@
       "hash": "4fd91c762798523e3b5b161ee8d77ca6d9f37bf6",
       "revision": "upm"
     }
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.dereststorm",
+      "url": "https://github.com/DeRestStorm",
+      "scopes": [
+        "com.modesttree.zenject",
+        "net.yasirkula.unitybeziersolution"
+      ]
+    }
+  ]
 }
