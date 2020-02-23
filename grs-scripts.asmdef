@@ -1,6 +1,9 @@
 {
-    "name": "net.yasirkula.unitybeziersolution",
-    "references": [],
+    "name": "grs-scripts",
+    "references": [
+        "net.yasirkula.unitybeziersolution",
+        "Zenject"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

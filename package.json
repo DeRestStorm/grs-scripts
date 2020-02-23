@@ -5,6 +5,17 @@
   "unity": "2019.2",
   "description": "for grs-td project.",
   "dependencies": {
+    "net.yasirkula.unitybeziersolution": "https://github.com/DeRestStorm/UnityBezierSolution-UPM.git#upm",
     "com.modesttree.zenject": "https://github.com/DeRestStorm/Zenject.git#upm"
+  },
+  "lock": {
+    "com.modesttree.zenject": {
+      "hash": "de07abe90babdb1ff7f3945652890dcd3493edf9",
+      "revision": "upm"
+    },
+    "net.yasirkula.unitybeziersolution": {
+      "hash": "4fd91c762798523e3b5b161ee8d77ca6d9f37bf6",
+      "revision": "upm"
+    }
   }
 }
